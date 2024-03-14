@@ -1,0 +1,10 @@
+html {
+    /* Color Variables */
+    --primary-color: red;
+    --secondary-color: blue;
+    --third-color: green;
+    --strong-color: white;
+
+    background-color: blue;
+}
+
